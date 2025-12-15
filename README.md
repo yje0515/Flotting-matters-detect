@@ -1,3 +1,6 @@
+## Roboflow를 이용해 데이터 전처리
+## YOLOv8n 모델을 훈련시켜 영상의 부유물(plastic,twig)를 탐지
+
 ![Image](https://github.com/user-attachments/assets/6fda2605-456f-4b8b-b156-d3cd9e92a0c1)
 ![Image](https://github.com/user-attachments/assets/9d20dc4b-bc68-4c54-bf09-e343ad242017)
 ![Image](https://github.com/user-attachments/assets/1edf3d06-bdaf-4f5c-b990-af12da47a5d1)
